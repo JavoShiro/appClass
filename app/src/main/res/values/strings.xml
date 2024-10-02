@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">appClases</string>
+    <string name="textBienvenida">Bienvenido ¿Usted es?</string>
+    <string name="btProfesor">Profesor</string>
+    <string name="btAlumno">Alumno</string>
+    <string name="btApoderado">Apoderado</string>
+</resources>
